@@ -44,7 +44,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/EventEmitter.sol": "EventEmitter"
+			"contracts/log-trigger.sol": "EventEmitter"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -58,7 +58,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/EventEmitter.sol": {
+		"contracts/log-trigger.sol": {
 			"keccak256": "0x39f065e4b1b62bcb2db062785c245572965d906805156b69f7e97aa15fa537bd",
 			"license": "MIT",
 			"urls": [
