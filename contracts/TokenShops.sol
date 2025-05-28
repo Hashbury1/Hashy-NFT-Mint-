@@ -5,7 +5,7 @@ import {AggregatorV3Interface} from "@chainlink/contracts@1.3.0/src/v0.8/shared/
 import {Ownable} from "@openzeppelin/contracts@5.2.0/access/Ownable.sol";
 import {ERC20} from "./ERC20.sol";
 
-contract TokenShops is Ownable {
+contract TokenShop is Ownable {
 
     AggregatorV3Interface internal immutable i_priceFeed;
     ERC20 public immutable i_token;

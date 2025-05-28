@@ -727,7 +727,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyERC20.sol": "Hashy"
+			"contracts/ERC20.sol": "Hashy"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -813,7 +813,7 @@
 				"dweb:/ipfs/QmfDRc7pxfaXB2Dh9np5Uf29Na3pQ7tafRS684wd3GLjVL"
 			]
 		},
-		"contracts/MyERC20.sol": {
+		"contracts/ERC20.sol": {
 			"keccak256": "0xd73d371bc4b24c082252d1dd16b032775b94620ac242bce6f16b401f1ade4eea",
 			"license": "MIT",
 			"urls": [
